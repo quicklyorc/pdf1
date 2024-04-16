@@ -10,7 +10,6 @@ chardet==3.0.4
 charset-normalizer==3.3.2
 click==8.1.7
 dataclasses-json==0.6.4
-debugpy @ file:///D:/bld/debugpy_1707444544473/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1704921103267/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1698579936712/work
